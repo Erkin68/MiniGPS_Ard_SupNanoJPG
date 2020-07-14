@@ -1,0 +1,1744 @@
+4800 yoki 19200 qo'ysam:
+
+
+
+ CHARS=10841 SENTENCES=0 CSUM ERR=0
+Hello! ST7735 TFT TestInitialized(Tugal)
+146
+done, tugatdim.
+% !??????g?E???????b$ ???C??????F?!??????????????????b$$ "??????f?E???????b$"???A??????F?!??????????????????b$ !???hG??a$ C?????c CHARS=148 SENTENCES=0 CSUM ERR=0
+$ #??????f?E???????c%"???A??????F?!??????????????????c% !???t?aG?%b$ B?????c$ "??????f?E???????b$ ???A??????F?!??????????????????c$ ! CHARS=302 SENTENCES=0 CSUM ERR=0
+???????c% B?????b% "??????f?D???????b%"???A??????F?!??????????????????b$  ???tGN?a???b$ C?????b CHARS=415 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$ ???A?*????F?!??????????????????c% !???t?a?ag??b$ B?????c CHARS=508 SENTENCES=0 CSUM ERR=0
+% "??????f?D???????b% ???A?????NF?!??????????????????b$ !???t?N??%c$ B?????b CHARS=597 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$ ???A??????F?!??????????????????b$ !???tGN?a??%b$ A?????c CHARS=690 SENTENCES=0 CSUM ERR=0
+$ "??????g?E???????c$ ???A??????F?!??????????????????b$ !???tGNGa???b$ B?????b CHARS=783 SENTENCES=0 CSUM ERR=0
+$ "??????f?D???????b$ ???A??????F?!??????????????????b% !???t?N?N??b$ B?????b CHARS=876 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$ ???A??????F?!??????????????????b$ !???t?n?N???b$ B?????b CHARS=969 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????c$ ???A??????F?!??????????????????b$ !???h?N?a??Kb$ B?????b CHARS=1062 SENTENCES=0 CSUM ERR=0
+% #??????f?D???????b% ???A??????F?%??????????????????c% !???t?N?aG?%b$ B?????c CHARS=1155 SENTENCES=0 CSUM ERR=0
+$ "??????g?E???????c$ ???A??????F?!??????????????????b% !???T?A?N???b$ B?????b CHARS=1248 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$ ???A??????F?!??????????????????b$  ???h?n??GH??b$ B?????b$ #???????E???????a$ ???A??????F?!??????????????? CHARS=1402 SENTENCES=0 CSUM ERR=0
+???b%  ?????a?N??b$ B?????b$ "??????g?E???????b% ???A??????F?!??????????????????b% !???tGA?t??b$ B??U?b CHARS=1531 SENTENCES=0 CSUM ERR=0
+% #??????e?E???????b$ ???A?????nF?!??????????????????b$ !???h?nGn?h??%b$ B?????a CHARS=1628 SENTENCES=0 CSUM ERR=0
+% "??????f?E???????c% ???A??????F?!,?????????????????b$ !???h?n?N?t???c%"B?????c CHARS=1725 SENTENCES=0 CSUM ERR=0
+% #??????f?E???????b$ ???A??????F?!??????????????????b$ !???hGNGN?t???c$ B?????c CHARS=1822 SENTENCES=0 CSUM ERR=0
+$ "??????f?D???????b$ ???A??????F?!??????????????????b% !???h?N??gt??%c$  ???hG?b$ C?????c CHARS=1932 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????c%"???A??????F?!??????????????????a$  ???tGN?ngtG?%b$ !???h??'b% B?????b CHARS=2042 SENTENCES=0 CSUM ERR=0
+! "??????g?E???????b$ ???A??????F?!??????????????????c$  ???h?agN?tg?c$ !???t???b$ B?????b CHARS=2152 SENTENCES=0 CSUM ERR=0
+% "??????f?E???????c$ ???A??????F?!??????????????????b$  ???H?aGN?h??b$ !???T???b$ B?????b CHARS=2262 SENTENCES=0 CSUM ERR=0
+% "??????f?E???????b$"???A??????F?!??????????????????b$ !???T?n?A?t??%c% !???h???b$ B?????b CHARS=2372 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????a$ ???A??????F?!??????????????????b$ !???H?a?Ngt??%b$ !???h???c$ B?????b$ #??????e?E???????b$ ???A??????F?!??????????????????	 CHARS=2544 SENTENCES=0 CSUM ERR=0
+$  ???h?a?n?t??%b$ !???t???b$ B?????b% "??????f?E???????b$ ???A??????F?!??????????????????b$ !???hga?N?h???c$ A?????b CHARS=2689 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b% ???A??????F?!??????????????????c% !???h?A?a?t??%c$ !?????G?b$ B?????c CHARS=2799 SENTENCES=0 CSUM ERR=0
+$ #??????f?E???????b$ ???A??????F?!??????????????????b$ !???t?a?Ih??%b$ B?????c CHARS=2892 SENTENCES=0 CSUM ERR=0
+$ #??????f?E???????b$ ???A??????F?!??????????????????b$ !???H?a?h?h??c% B?????b CHARS=2989 SENTENCES=0 CSUM ERR=0
+$ "??????g?E???????b? ???A??????F?!??????????????????b$ !???h?aGh?T??%c$ !?????g?b$ C?????c CHARS=3099 SENTENCES=0 CSUM ERR=0
+% "??????f?D???????b$ ???A??????F?!??????????????????b$ !???h?A?h?t???	% !???????b$ B?????b CHARS=3209 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b% ???A??????F?!??????????????????b$ !???H?aGh?h???b$  ???????b$ C?????c CHARS=3319 SENTENCES=0 CSUM ERR=0
+% "??????f?E???????b$ ???A??????F?!??????????????????b%  ???a?t?h?????%b% B?????b CHARS=3416 SENTENCES=0 CSUM ERR=0
+$ !??????f?E???????b$ ???A??????F?!??????????????????b$ !???hGa?h?????c% C?????b CHARS=3513 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$ ???A??????F?!??????????????????b% !???h?a?h?????b$ B?????b% "??????f?E???????b% ???A??????F?!??????????????????b$ !???h)? CHARS=3682 SENTENCES=0 CSUM ERR=0
+a?h?????b$ C?????c$ "??????f?E???????b$ ???A??????F?!?????????????Y????b$ !???t?a????b$ B?????c CHARS=3800 SENTENCES=0 CSUM ERR=0
+% "??????f?D???????c$ ???A??????F?!??????????????????c% !???t????c$ B?????b CHARS=3889 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????c%"???A??????F?!??????????????????c$  ???h?A?????b$ B?????b CHARS=3982 SENTENCES=0 CSUM ERR=0
+$""??????e?E???????c$ ???A??????F?!??????????????????b$  ???h?a?tG??g?c$ B?????c CHARS=4079 SENTENCES=0 CSUM ERR=0
+% #??????g?E???????c% ???A??????F?!??????????????????b$ !???hnH???G?c$ B?????b CHARS=4172 SENTENCES=0 CSUM ERR=0
+% "??????f?D???????b$ ???A??????F?!??????????????????b$  ???h?????b$ C?????b CHARS=4261 SENTENCES=0 CSUM ERR=0
+% #??????g?E???????c% ???A??????F?!??????????????????b% !???Tg????c$ B?????b CHARS=4350 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$ ???A??????F?!??????????????????c% !???a?h???ga??b$ B?????b CHARS=4447 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$ ???A??????F?!??????????????????c$ !???A?hg??GAG?b$ C?????c CHARS=4544 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$"???A??????F?!??????????????????b$ !???a?H????a??b$ C?????c$ "?????? CHARS=4650 SENTENCES=0 CSUM ERR=0
+f?E???????b% ???A??????F?!??????????????????b$  ???aGh????a??a% B?????b$""??????e?E???????b$ ??????????F?!??????????????????b$  ???N?H?????? CHARS=4822 SENTENCES=0 CSUM ERR=0
+?b% B?????b% "??????f?D???????b$ ???A??????F?!??????????????????b$ !???N?T???gN??c$ B?????b CHARS=4932 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b% ???A??????F?!??????????????????b% !???Ag?????ag?c$ B?????c CHARS=5029 SENTENCES=0 CSUM ERR=0
+$ #??????f?E???????b) ???A??????F?!??????????????????b$ !???N?T????a??b$ B?????c CHARS=5126 SENTENCES=0 CSUM ERR=0
+$ #??????f?E???????b$ ???A??????F?!??????????????????b$ !???A??????C??b$ B?????b CHARS=5223 SENTENCES=0 CSUM ERR=0
+$ #??????f?E???????b$ ???A??????F?!??????????????????b$ !????Gt????NG?b$ B?????b CHARS=5320 SENTENCES=0 CSUM ERR=0
+$ #??????f?D???????b$ ???A??????F?!??????????????????b$ "???N?????GN??b$ !???a??b$ B?????b CHARS=5430 SENTENCES=0 CSUM ERR=0
+$ #??????f?E???????c%"???A??????F?!??????????????????b$ !???n?t???GNG?b$ B?????b CHARS=5527 SENTENCES=0 CSUM ERR=0
+9 "??????f?E???????b$ ???A??????F?!??????????????????a$ "???A?????gN??b$ B?????c CHARS=5624 SENTENCES=0 CSUM ERR=0
+$ "??????f?E???????b$ ???A??????F?!??????????????????b$"!???a?T????N??b% C?????b CHARS=5721 SENTENCES=0 CSUM ERR=0
+$ "??????e?E???????b$ ???A??????F?!??????????????????b$  ???a?t????N??b$ B?????c) "??????e?E???????b% ???A??????F?!??????????????? CHARS=5875 SENTENCES=0 CSUM ERR=0
+???b$ !???CGh???gAG?b$ B?????b$ "??????f?E???????b$ ???A??????F?!??????????????????b$ !???N?h????NG?b% B?????b CHARS=6012 SENTENCES=0 CSUM ERR=0
+$""??????e?D???????b$ ???A??????F?!??????????????????b% !???A??G???n??b$ !???a?t????NG?b$ !???hG????b$ B?????b CHARS=6151 SENTENCES=0 CSUM ERR=0
+$ #??????g?D???????	$ ???A??????F?!??????????????????b$ !???AGH????ng?b$ !???A?NGHG????b$ !???A?h?????%b% C?????b CHARS=6294 SENTENCES=0 CSUM ERR=0
+
+
+
+
+
+
+9600 qo'ysam:
+Hello! ST7735 TFT TestInitialized(Tugal)
+145
+done, tugatdim.
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,13,01,,,22,03,,,22,06,,,24,08,,,25*73
+$GPGSV,4, CHARS=246 SENTENCES=0 CSUM ERR=0
+2,13,09,,,25,12,,,24,13,,,26,14,,,24*73
+$GPGSV,4,3,13,16,,,25,18,,,25,23,,,26,29,,,24*7A
+$GPGSV,4,4,13,32,,,24*7C
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,23,08,,,23*74
+$GPGSV,4,2,15, CHARS=571 SENTENCES=0 CSUM ERR=0
+09,,,23,12,,,23,13,,,24,14,,,23*71
+$GPGSV,4,3,15,16,,,23,18,,,23,21,,,25,22,,,25*77
+$GPGSV,4,4,15,23,,,24,29,,,23,32,,,23*70
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,23,08,,,23*74
+$GPGSV,4,2,15,09,,,2 CHARS=913 SENTENCES=0 CSUM ERR=0
+2,12,,,23,13,,,23,14,,,23*77
+$GPGSV,4,3,15,16,,,23,18,,,23,21,,,23,22,,,24*70
+$GPGSV,4,4,15,23,,,23,29,,,23,32,,,23*77
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,22,08,,,23*75
+$GPGSV,4,2,15,09,,,22,12,, CHARS=1255 SENTENCES=0 CSUM ERR=0
+,22,13,,,22,14,,,22*76
+$GPGSV,4,3,15,16,,,23,18,,,22,21,,,22,22,,,23*77
+$GPGSV,4,4,15,23,,,23,29,,,22,32,,,22*77
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,23,03,,,22,06,,,22,08,,,23*74
+$GPGSV,4,2,15,09,,,22,12,,,22,13, CHARS=1598 SENTENCES=0 CSUM ERR=0
+,,22,14,,,22*76
+$GPGSV,4,3,15,16,,,22,18,,,22,21,,,22,22,,,22*77
+$GPGSV,4,4,15,23,,,22,29,,,21,32,,,22*75
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,22,08,,,23*75
+$GPGSV,4,2,15,09,,,22,12,,,22,13,,,22, CHARS=1939 SENTENCES=0 CSUM ERR=0
+14,,,22*76
+$GPGSV,4,3,15,16,,,22,18,,,22,21,,,22,22,,,23*76
+$GPGSV,4,4,15,23,,,22,29,,,21,32,,,22*75
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,22,08,,,22*74
+$GPGSV,4,2,15,09,,,22,12,,,22,13,,,22,14,,,22 CHARS=2282 SENTENCES=0 CSUM ERR=0
+*76
+$GPGSV,4,3,15,16,,,22,18,,,22,21,,,22,22,,,22*77
+$GPGSV,4,4,15,23,,,22,29,,,22,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,21,03,,,21,06,,,21,08,,,22*77
+$GPGSV,4,2,15,09,,,21,12,,,22,13,,,21,14,,,22*76
+ CHARS=2623 SENTENCES=0 CSUM ERR=0
+$GPGSV,4,3,15,16,,,22,18,,,21,21,,,21,22,,,22*77
+$GPGSV,4,4,15,23,,,21,29,,,21,32,,,21*75
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,21,03,,,21,06,,,21,08,,,21*74
+$GPGSV,4,2,15,09,,,22,12,,,22,13,,,21,14,,,21*76
+$GPGSV,4 CHARS=2967 SENTENCES=0 CSUM ERR=0
+,3,15,16,,,22,18,,,21,21,,,21,22,,,22*77
+$GPGSV,4,4,15,23,,,21,29,,,21,32,,,21*75
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,22,08,,,22*74
+$GPGSV,4,2,15,09,,,22,12,,,22,13,,,22,14,,,22*76
+$GPGSV,4,3,15, CHARS=3309 SENTENCES=0 CSUM ERR=0
+16,,,22,18,,,22,21,,,22,22,,,22*77
+$GPGSV,4,4,15,23,,,22,29,,,22,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,22,08,,,22*74
+$GPGSV,4,2,15,09,,,23,12,,,22,13,,,22,14,,,22*77
+$GPGSV,4,3,15,16,,,2 CHARS=3651 SENTENCES=0 CSUM ERR=0
+2,18,,,22,21,,,22,22,,,22*77
+$GPGSV,4,4,15,23,,,22,29,,,22,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,21,08,,,22*77
+$GPGSV,4,2,15,09,,,22,12,,,22,13,,,22,14,,,22*76
+$GPGSV,4,3,15,16,,,22,18,,, CHARS=3994 SENTENCES=0 CSUM ERR=0
+22,21,,,22,22,,,22*77
+$GPGSV,4,4,15,23,,,22,29,,,22,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,21,08,,,22*77
+$GPGSV,4,2,15,09,,,22,12,,,22,13,,,22,14,,,22*76
+$GPGSV,4,3,15,16,,,22,18,,,22,21,, CHARS=4337 SENTENCES=0 CSUM ERR=0
+,22,22,,,22*77
+$GPGSV,4,4,15,23,,,22,29,,,22,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,14,01,,,20,03,,,22,06,,,22,08,,,22*77
+$GPGSV,4,2,14,09,,,22,12,,,22,13,,,22,14,,,22*77
+$GPGSV,4,3,14,16,,,21,21,,,22,22,,,22,23,, CHARS=4681 SENTENCES=0 CSUM ERR=0
+,22*7D
+$GPGSV,4,4,14,29,,,22,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,25,03,,,22,06,,,22,07,,,22*7C
+$GPGSV,4,2,15,08,,,22,09,,,22,12,,,22,13,,,22*7B
+$GPGSV,4,3,15,14,,,22,16,,,22,21,,,22,22,,,22*7B CHARS=5016 SENTENCES=0 CSUM ERR=0
+
+$GPGSV,4,4,15,23,,,22,29,,,22,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,24,03,,,22,06,,,22,07,,,22*7D
+$GPGSV,4,2,15,08,,,24,09,,,22,12,,,23,13,,,22*7C
+$GPGSV,4,3,15,14,,,22,16,,,22,21,,,22,22,,,23*7A
+$GP CHARS=5356 SENTENCES=0 CSUM ERR=0
+GSV,4,4,15,23,,,22,29,,,22,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,21,06,,,22,07,,,21*7B
+$GPGSV,4,2,15,08,,,23,09,,,21,12,,,22,13,,,21*7A
+$GPGSV,4,3,15,14,,,21,16,,,21,21,,,21,22,,,22*78
+$GPGSV,4,4 CHARS=5699 SENTENCES=0 CSUM ERR=0
+,15,23,,,21,29,,,22,32,,,22*75
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,22,06,,,22,07,,,21*78
+$GPGSV,4,2,15,08,,,22,09,,,21,12,,,21,13,,,21*78
+$GPGSV,4,3,15,14,,,22,16,,,21,21,,,21,22,,,21*78
+$GPGSV,4,4,15,23 CHARS=6041 SENTENCES=0 CSUM ERR=0
+,,,21,29,,,22,32,,,21*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,21,03,,,21,06,,,22,07,,,21*78
+$GPGSV,4,2,15,08,,,22,09,,,21,12,,,21,13,,,21*78
+$GPGSV,4,3,15,14,,,21,16,,,22,21,,,21,22,,,19*73
+$GPGSV,4,4,15,23,,,21, CHARS=6383 SENTENCES=0 CSUM ERR=0
+29,,,21,32,,,22*76
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,21,03,,,21,06,,,22,07,,,21*78
+$GPGSV,4,2,15,08,,,22,09,,,21,12,,,21,13,,,22*7B
+$GPGSV,4,3,15,14,,,22,16,,,21,21,,,21,22,,,17*7D
+$GPGSV,4,4,15,23,,,21,29,,,18, CHARS=6727 SENTENCES=0 CSUM ERR=0
+32,,,22*7C
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,21,06,,,22,07,,,21*7B
+$GPGSV,4,2,15,08,,,22,09,,,22,12,,,21,13,,,21*7B
+$GPGSV,4,3,15,14,,,22,16,,,21,21,,,21,22,,,14*7E
+$GPGSV,4,4,15,23,,,21,29,,,14,32,,,21* CHARS=7071 SENTENCES=0 CSUM ERR=0
+73
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,15,01,,,22,03,,,21,06,,,22,07,,,21*7B
+$GPGSV,4,2,15,08,,,22,09,,,21,12,,,21,13,,,21*78
+$GPGSV,4,3,15,14,,,22,16,,,21,21,,,21,22,,,13*79
+$GPGSV,4,4,15,23,,,21,29,,,14,32,,,21*73
+ CHARS=7411 SENTENCES=0 CSUM ERR=0
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,14,01,,,22,03,,,22,06,,,21,07,,,18*70
+$GPGSV,4,2,14,08,,,22,09,,,21,12,,,22,13,,,21*7A
+$GPGSV,4,3,14,14,,,21,16,,,21,21,,,21,22,,,14*7C
+$GPGSV,4,4,14,23,,,21,32,,,22*7F
+$GPGLL,,,,,,V,N*6 CHARS=7756 SENTENCES=0 CSUM ERR=0
+4
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,14,01,,,22,03,,,22,06,,,22,07,,,14*7F
+$GPGSV,4,2,14,08,,,22,09,,,21,12,,,22,13,,,22*79
+$GPGSV,4,3,14,14,,,21,16,,,21,21,,,21,22,,,14*7C
+$GPGSV,4,4,14,23,,,21,32,,,22*7F
+$GPGLL,,,,,,V,N*64 CHARS=8085 SENTENCES=0 CSUM ERR=0
+
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,3,1,12,01,,,21,03,,,21,06,,,22,08,,,22*74
+$GPGSV,3,2,12,09,,,21,12,,,21,13,,,21,14,,,21*76
+$GPGSV,3,3,12,16,,,21,21,,,18,23,,,21,32,,,21*74
+$GPGLL,,,,,,V,N*64
+ CHARS=8381 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,3,1,12,01,,,21,03,,,19,06,,,19,08,,,22*77
+$GPGSV,3,2,12,09,,,18,12,,,20,13,,,21,14,,,18*77
+$GPGSV,3,3,12,16,,,18,21,,,16,32,,,18,42,,,26*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=8675 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,3,1,09,01,,,18,03,,,14,08,,,19,09,,,14*70
+$GPGSV,3,2,09,12,,,18,13,,,19,16,,,16,21,,,10*73
+$GPGSV,3,3,09,32,,,13*73
+$GPGLL,,,,,,V,N*64
+ CHARS=8945 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,3,1,12,01,,,23,03,,,21,04,,,22,06,,,22*7A
+$GPGSV,3,2,12,09,,,20,12,,,21,13,,,22,16,,,12*76
+$GPGSV,3,3,12,20,,,25,24,,,25,26,,,28,32,,,14*74
+$GPGLL,,,,,,V,N*64
+ CHARS=9239 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,3,1,11,01,,,19,03,,,17,04,,,18,06,,,18*75
+$GPGSV,3,2,11,08,,,19,09,,,18,13,,,20,16,,,10*7E
+$GPGSV,3,3,11,20,,,21,24,,,23,26,,,25*7C
+$GPGLL,,,,,,V,N*64
+ CHARS=9525 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,08,03,,,12,04,,,13,06,,,13,08,,,16*7F
+$GPGSV,2,2,08,13,,,18,16,,,11,24,,,22,26,,,22*7F
+$GPGLL,,,,,,V,N*64
+ CHARS=9769 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,04,,,11,06,,,10,08,,,12,13,,,13*75
+$GPGSV,2,2,07,16,,,10,24,,,20,26,,,18*71
+$GPGLL,,,,,,V,N*64
+ CHARS=10005 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,04,,,09,06,,,08,08,,,10,13,,,10*75
+$GPGSV,2,2,06,24,,,17,26,,,12*78
+$GPGLL,,,,,,V,N*64
+ CHARS=10233 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,04,,,08,06,,,09,08,,,08,09,,,24*71
+$GPGSV,2,2,07,13,,,12,24,,,12,26,,,09*77
+$GPGLL,,,,,,V,N*64
+ CHARS=10469 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,04,06,,,12,09,,,22,26,,,11,31,,,23*76
+$GPGLL,,,,,,V,N*64
+ CHARS=10663 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,04,06,,,12,09,,,22,26,,,11,31,,,19*7F
+$GPGLL,,,,,,V,N*64
+ CHARS=10857 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,03,06,,,13,09,,,21,26,,,09*79
+$GPGLL,,,,,,V,N*64
+ CHARS=11043 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,02,06,,,12,09,,,20*75
+$GPGLL,,,,,,V,N*64
+ CHARS=11221 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,02,06,,,10,09,,,24*73
+$GPGLL,,,,,,V,N*64
+ CHARS=11399 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,02,06,,,22,09,,,23*75
+$GPGLL,,,,,,V,N*64
+ CHARS=11577 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,02,06,,,21,09,,,22*77
+$GPGLL,,,,,,V,N*64
+ CHARS=11755 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,02,06,,,21,09,,,21*74
+$GPGLL,,,,,,V,N*64
+ CHARS=11933 SENTENCES=0 CSUM ERR=0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello! ST7735 TFT TestInitialized(Tugal)
+147
+done, tugatdim.
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,22,04,,,22,05,,,22*79
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,21,15,,,22*70
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,22*74
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=407 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,21,02,,,22,04,,,22,05,,,22*7A
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,22,15,,,22*73
+$GPGSV,4,3,16,16,,,21,17,,,22,18,,,22,27,,,22*77
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=751 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,22,04,,,22,05,,,22*79
+$GPGSV,4,2,16,08,,,22,13,,,21,14,,,22,15,,,22*70
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,22*74
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=1095 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,22,04,,,22,05,,,22*79
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,22,15,,,22*73
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,23,27,,,22*75
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=1439 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,22,04,,,22,05,,,22*79
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,22,15,,,22*73
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,21*77
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=1783 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,22,04,,,22,05,,,22*79
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,22,15,,,22*73
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,22*74
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=2127 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,22,04,,,22,05,,,22*79
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,22,15,,,22*73
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,22*74
+$GPGSV,4,4,16,29,,,22,46,,,28,47,,,27,50,,,27*7B
+$GPGLL,,,,,,V,N*64
+ CHARS=2471 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,22,04,,,23,05,,,22*78
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,22,15,,,22*73
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,22*74
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=2815 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,23,04,,,22,05,,,22*78
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,22,15,,,22*73
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,22*74
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=3159 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,23,04,,,22,05,,,22*78
+$GPGSV,4,2,16,08,,,22,13,,,23,14,,,23,15,,,22*73
+$GPGSV,4,3,16,16,,,23,17,,,22,18,,,22,27,,,22*75
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=3503 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,22,04,,,22,05,,,22*79
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,23,15,,,22*72
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,22*74
+$GPGSV,4,4,16,29,,,22,46,,,27,47,,,27,50,,,27*74
+$GPGLL,,,,,,V,N*64
+ CHARS=3847 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,23,04,,,23,05,,,23*78
+$GPGSV,4,2,16,08,,,22,13,,,22,14,,,22,15,,,23*72
+$GPGSV,4,3,16,16,,,22,17,,,22,18,,,22,27,,,22*74
+$GPGSV,4,4,16,29,,,22,46,,,28,47,,,27,50,,,27*7B
+$GPGLL,,,,,,V,N*64
+ CHARS=4191 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,22,14,,,23,15,,,23*72
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,22,27,,,23*75
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,27,50,,,27*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=4535 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=4879 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,22,18,,,23,27,,,23*75
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=5223 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,24*73
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,29,50,,,28*7B
+$GPGLL,,,,,,V,N*64
+ CHARS=5567 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,24,02,,,23,04,,,23,05,,,23*7E
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,24*73
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=5911 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,24,05,,,23*7E
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,24*73
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=6255 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,24,27,,,23*73
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=6599 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,22,15,,,23*72
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,24,27,,,23*73
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=6943 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=7287 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,22*72
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=7631 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=7975 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,24,14,,,23,15,,,23*74
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=8319 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,24,14,,,23,15,,,23*74
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=8663 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,23,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,24,14,,,23,15,,,23*74
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=9007 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,23,04,,,24,05,,,23*7E
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,24,15,,,23*74
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,23,46,,,29,47,,,28,50,,,28*7B
+$GPGLL,,,,,,V,N*64
+ CHARS=9351 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,24,02,,,23,04,,,24,05,,,23*79
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,24,15,,,23*74
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,24*73
+$GPGSV,4,4,16,29,,,23,46,,,28,47,,,28,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=9695 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,24,02,,,23,04,,,24,05,,,23*79
+$GPGSV,4,2,16,08,,,24,13,,,24,14,,,24,15,,,23*74
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,24*73
+$GPGSV,4,4,16,29,,,23,46,,,29,47,,,29,50,,,28*7A
+$GPGLL,,,,,,V,N*64
+ CHARS=10039 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,23,02,,,24,04,,,24,05,,,24*7E
+$GPGSV,4,2,16,08,,,24,13,,,24,14,,,24,15,,,24*73
+$GPGSV,4,3,16,16,,,23,17,,,24,18,,,24,27,,,24*73
+$GPGSV,4,4,16,29,,,24,46,,,29,47,,,29,50,,,29*7C
+$GPGLL,,,,,,V,N*64
+ CHARS=10383 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,24,04,,,23,05,,,23*7F
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,24,46,,,27,47,,,29,50,,,29*72
+$GPGLL,,,,,,V,N*64
+ CHARS=10727 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,4,1,16,01,,,22,02,,,23,04,,,23,05,,,23*78
+$GPGSV,4,2,16,08,,,23,13,,,23,14,,,23,15,,,23*73
+$GPGSV,4,3,16,16,,,23,17,,,23,18,,,23,27,,,23*74
+$GPGSV,4,4,16,29,,,24,46,,,28,47,,,28,50,,,28*7D
+$sGPGLL,,,,,,V,N*64
+
+
+
+
+
+
+Hello! ST7735 TFT TestInitialized(Tugal)
+303
+done, tugatdim.
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:.99GSA,Checksum bool:A,Checksum bool:199*Checksum bool:,hecksum bool:byte: CSUM ERR=
+Checksum bool:N CHARS=139 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$9Checksum bool:
+Checksum bool: CHARS=226 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$9Checksum bool:
+Checksum bool: CHARS=313 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$9Checksum bool:
+Checksum bool: CHARS=400 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$9Checksum bool:
+Checksum bool: CHARS=487 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$9Checksum bool:
+Checksum bool: CHARS=574 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$4,Checksum bool:,Checksum bool: CHARS=661 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$3,Checksum bool:,Checksum bool:,Checksum bool: CHARS=749 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$3,Checksum bool:,Checksum bool:,Checksum bool: CHARS=837 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$3,Checksum bool:,Checksum bool:,Checksum bool: CHARS=925 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48hecksum bool:w data.ON=Data good:
+Checksum bool:$,Checksum bool:9
+Checksum bool:$4,Checksum bool:,Checksum bool:D5,Checksum bool:21,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:Checksum bool:,Checksum bool:72,Checksum bool:27,Checksum bool:V CHARS=1030 SENTENCES=0 CSUM ERR=1
+$GPRMC,Checksum bool:,Checksum bool:V,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:53hecksum bool:=PREC=Data good:
+Checksum bool:$GPVTG,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:N*Checksum bool:30hecksum bool::RUE of new data.Data good:
+Checksum bool:$GPGGA,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:0,Checksum bool:00,Checksum bool:99.99,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:,Checksum bool:*Checksum bool:48A,hecksum bool:w data.NTENCES=.31,Checksum bool:2GSV2$GPGSV,Checksum bool:,Checksum bool:2G6
+
+
+
+
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,21*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=34947 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,21*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=35117 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,20*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=35287 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=35449 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,21*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=35619 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,06,,,19,07,,,28*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=35797 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,16*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=35967 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,13*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=36137 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,13*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=36307 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,14*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=36477 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,14*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=36647 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,14*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=36817 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,14*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=36987 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,15*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=37157 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,06,,,14,08,,,28*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=37335 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=37497 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=37659 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,23*7Facters received from GPS: check wiring ** from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=37829 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,06,,,20*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=37999 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=38161 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=38323 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=38485 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=38647 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=38809 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=38971 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=39133 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=39295 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=39457 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=39619 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=39781 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=39943 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,10,,,27*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=40113 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=40275 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=40437 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=40599 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=40761 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=40923 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=41085 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=41247 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,11,,,25*7Facters received from GPS: check wiring ** from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=41417 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,00*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=41579 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,11,,,23*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=41749 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,11,,,22*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=41919 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,11,,,22*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=42089 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,11,,,21*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=42259 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,11,,,22*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=42429 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,11,,,22*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=42599 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,11,,,21*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=42769 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,21,12,,,25*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=42947 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,21,12,,,23*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=43125 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,21,12,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=43303 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,22,12,,,22*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=43481 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,20,12,,,22*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=43659 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,12,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=43829 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,21,12,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=44007 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,21,12,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=44185 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,21,12,,,21,13,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=44371 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,21,12,,,22,13,,,24*7Eracters received from GPS: check wiring **d from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=44557 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,22,12,,,22,13,,,23*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=44743 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,19,12,,,22,13,,,22*73=ers received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=44929 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,17,12,,,22,13,,,22*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=45115 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,14,12,,,22,13,,,22*7Eracters received from GPS: check wiring **d from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=45301 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,14,12,,,21,13,,,22*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=45487 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,14,13,,,22*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=45665 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,01,13,,,22*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=45835 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,23,12,,,22,13,,,21,14,,,31*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=46029 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,22,12,,,22,13,,,21*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=46215 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,22,12,,,22,13,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=46401 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,22,12,,,21,13,,,22*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=46587 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,21,12,,,20,13,,,22*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=46773 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,21,12,,,17,13,,,21*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=46959 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,21,13,,,21*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=47137 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,02,11,,,22,13,,,21*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=47315 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,21,12,,,21,13,,,21,15,,,20*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=47509 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,11,,,21,12,,,21,13,,,21*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=47695 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,21,12,,,22,13,,,21,15,,,21*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=47889 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,22,12,,,22,13,,,21,15,,,21*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=48083 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,22,12,,,21,13,,,21,15,,,21*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=48277 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,21,12,,,21,13,,,22,15,,,21*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=48471 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,21,12,,,21,13,,,22,15,,,21*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=48665 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,21,12,,,22,13,,,22,15,,,21*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=48859 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,22,12,,,22,13,,,22,15,,,21*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=49053 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,11,,,21,12,,,21,13,,,22,15,,,22*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=49247 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,11,,,21,12,,,22,13,,,22,15,,,21*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGSV,2,2,05,16,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=49467 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,11,,,21,12,,,22,13,,,21,15,,,21*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGSV,2,2,05,16,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=49687 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,11,,,21,12,,,21,13,,,21,15,,,21*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGSV,2,2,05,16,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=49907 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,11,,,21,12,,,22,13,,,22,15,,,21*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGSV,2,2,05,16,,,22*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=50127 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,12,,,19,13,,,22,15,,,19,16,,,22*7Facters received from GPS: check wiring ** from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=50321 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,12,,,17,13,,,21,16,,,21*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=50507 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,12,,,15,13,,,21,16,,,21*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=50693 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,12,,,15,13,,,21,15,,,22,16,,,18*71RR=cters received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=50887 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,13,,,21,15,,,22,16,,,15,17,,,23*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=51081 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,12,,,22,13,,,21,15,,,20,17,,,21*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=51275 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,12,,,22,13,,,20,15,,,18,16,,,21*77 No characters received from GPS: check wiring **received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=51469 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,12,,,22,13,,,17,15,,,14,16,,,21*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGSV,2,2,05,17,,,21*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=51689 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,12,,,22,13,,,15,15,,,12,16,,,21*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGSV,2,2,05,17,,,21*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=51909 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,12,,,21,16,,,21,17,,,22*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=52095 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,12,,,21,15,,,24,16,,,21,17,,,21*7Eracters received from GPS: check wiring **d from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=52289 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,12,,,21,15,,,23,16,,,21,17,,,21*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=52483 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,12,,,21,15,,,22,16,,,21,17,,,21*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGSV,2,2,05,18,,,24*73=ers received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=52703 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,12,,,22,15,,,22,16,,,21,17,,,21*79o characters received from GPS: check wiring **ceived from GPS: check wiring **Data good:
+$GPGSV,2,2,05,18,,,21*76* No characters received from GPS: check wiring ** received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=52923 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,12,,,21,15,,,22,16,,,21,17,,,19*71RR=cters received from GPS: check wiring **Data good:
+$GPGSV,2,2,05,18,,,22*75** No characters received from GPS: check wiring **s received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=53143 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,12,,,19,15,,,22,16,,,21,17,,,17*74rs received from GPS: check wiring **Data good:
+$GPGSV,2,2,05,18,,,22*75** No characters received from GPS: check wiring **s received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=53363 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,2,1,05,12,,,17,15,,,22,16,,,22,17,,,22*7Facters received from GPS: check wiring ** from GPS: check wiring **Data good:
+$GPGSV,2,2,05,18,,,22*75** No characters received from GPS: check wiring **s received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=53583 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,15,,,22,16,,,21,17,,,21,18,,,22*71RR=cters received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=53777 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,15,,,20,16,,,22,17,,,21,18,,,22*70ERR=acters received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=53971 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,16,,,22,17,,,21,18,,,22*71RR=cters received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=54157 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,22,17,,,22,18,,,22,19,,,24*7Bcharacters received from GPS: check wiring **ived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=54351 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,21,17,,,22,18,,,20,19,,,24*7A characters received from GPS: check wiring **eived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=54545 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,03,16,,,22,17,,,21,19,,,22*70ERR=acters received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=54731 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,21,17,,,21,18,,,23,19,,,22*7Characters received from GPS: check wiring **ved from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=54925 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,21,17,,,21,18,,,22,19,,,22*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=55119 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,22,17,,,21,18,,,22,19,,,22*7Eracters received from GPS: check wiring **d from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=55313 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,22,17,,,21,18,,,21,19,,,21*7Eracters received from GPS: check wiring **d from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=55507 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,22,17,,,21,18,,,21,19,,,22*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=55701 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,22,17,,,22,18,,,21,19,,,22*7Eracters received from GPS: check wiring **d from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=55895 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,22,17,,,22,18,,,21,19,,,21*7Daracters received from GPS: check wiring **ed from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=56089 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,22,17,,,22,18,,,19,19,,,21*76* No characters received from GPS: check wiring ** received from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=56283 SENTENCES=0 CSUM ERR=0
+$GPRMC,,V,,,,,,,,,,N*53C=TENCES=Data good:
+$GPVTG,,,,,,,,,N*30:AT=Data good:
+$GPGGA,,,,,,0,00,99.99,,,,,,*48CHARS=Data good:
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30:AT=Data good:
+$GPGSV,1,1,04,16,,,22,17,,,22,18,,,17,19,,,21*78No characters received from GPS: check wiring **eceived from GPS: check wiring **Data good:
+$GPGLL,,,,,,V,N*64NCES==Data good:
+ CHARS=56477 SENTENCES=0 CSUM ERR=0
+
+
+
+
+
+
+
+Hello! ST7735 TFT TestInitialized(Tugal)
+386
+done, tugatdim.
+$GPRMC,,V,,,,,,,,,,N*53Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+
+$GPVTG,,,,,,,,,N*30Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+
+$GPGGA,,,,,,0,00,$GPRMC,,V,,,,,,,,,,N*53Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+
+$GPVTG,,,,,,,,,N*30Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+
+$GPGGA,,,,,,0,00,99.99,,,,,,*48Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+
+$GPGSA,A,,,,,,99.99,99.99,99.*73
+$GPGSV,4,2,16,07,,,29,08,,,213,,,29,14,,,29*75
+$GPGSV,4,4,16,15,,,29,33,,,34,37,,,34,39,,,34*78Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+
+$GPGLL,,,,,,V,N*64Location: INVALID  Date/Time: 0/0/2000 00:00:00.00
+
+
